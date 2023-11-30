@@ -1,0 +1,29 @@
+.weather-card {
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: auto;
+    max-width: 300px;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  .temperature {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .condition {
+    font-size: 1.5rem;
+  }
+  
+  .extra-info p {
+    margin: 5px 0;
+    font-size: 1rem;
+  }
+  
